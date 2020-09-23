@@ -1,0 +1,18 @@
+
+PuMa Soft Web Page (www.pumasoft.com.pl) is based on Responsive HTML5/CSS3 One Page Template - Safandi by M. Abo Elwafa, 
+purchased from https://wrapbootstrap.com/theme/safandi-html5-css3-one-page-template-WB0J579P3
+
+Graphic page and logo design by Julia Bronowicka, haloart-grafika.pl
+
+Pictures and graphic resources:
+1.
+2.
+3.
+4.
+5.
+
+
+
+
+fancy fonts:
+<!-- ? fa-pencil  fa-book  fa-sun-o fa-check-square fa-puzzle-piece  fa-keyboard-o  fa-coffee  fa-table   fa-hdd-o  -->
